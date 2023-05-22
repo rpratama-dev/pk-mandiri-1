@@ -1,1 +1,2 @@
 create from feature A
+create from feature B
